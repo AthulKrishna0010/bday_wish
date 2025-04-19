@@ -1,51 +1,18 @@
 const media = [
-    { type: "video", src: "media/first vid.mp4", caption: "Oh No, Ahahahahahahahah" },
-    { type: "video", src: "media/rolls.mp4", caption: "Remember US having rolls together??" },
-    { type: "video", src: "media/football.mp4", caption: "You megging me ehehehehe" },
-    { type: "video", src: "media/subway.mp4", caption: "How good are you at subway surfers huhhh" },
-    { type: "video", src: "media/momos.mp4", caption: "Remeber your celebration ahahahah" },
-    { type: "image", src: "media/1 year.jpg", caption: "1 year ceremony ehehehehe" },
-    { type: "image", src: "media/1.jpg", caption: "Thanks for being by my side, always" },
-    { type: "image", src: "media/2.jpg", caption: "There is never gonna be anyone like you for me" },
-    { type: "image", src: "media/3.jpg", caption: "I will always love youu princesss :))))" }
+    { type: "video", src: "media/vid.mp4", caption: "Add your caption here" },
+    { type: "video", src: "media/vid.mp4", caption: "Add your caption here" },
+    { type: "video", src: "media/vid.mp4", caption: "Add your caption here" },
+    { type: "video", src: "media/vid.mp4", caption: "Add your caption here" },
+    { type: "video", src: "media/vid.mp4", caption: "Add your caption here" },
+    { type: "image", src: "media/img.jpg", caption: "Add your caption here" },
+    { type: "image", src: "media/img.jpg", caption: "Add your caption here" },
+    { type: "image", src: "media/img.jpg", caption: "Add your caption here" },
+    { type: "image", src: "media/img.jpg", caption: "Add your caption here" }
   ];
   const typewriterText =
-  "HAPPY BIRTHDAY to the Sweetest Girl in my Life.<br><br>" +
+  "HAPPY BIRTHDAY<br><br>" +
   "I could not be more thankful<br>" +
-  "to have such a loving,<br>" +
-  "caring, and of course,<br>" +
-  "stubborn girlfriend <br>" +
-  "who I can proudly call MINE.<br><br>" +
-
-  "It's been almost 1.5 years<br>" +
-  "of your beautiful soul<br>" +
-  "making my life worth living<br>" +
-  "every single day.<br><br>" +
-
-  "And I keep falling for you<br>" +
-  "more and more every day,<br>" +
-  "more than I did yesterday.<br><br>" +
-
-  "IS IT OKAY FOR ME<br>" +
-  "TO KIDNAP YOU<br>" +
-  "AND KEEP YOU ALL<br>" +
-  "TO MYSELF FOREVER?<br>" +
-  "EHEHEHE <br><br>" +
-
-  "Listen, my cutiieee patootieee...<br>" +
-  "TODAY IS YOUR DAYYYYYYY! <br>" +
-  "YESSSS! TODAY IS<br>" +
-  "MY GIRL'S SPECIAL DAYYYY <br><br>" +
-
-  "Just know that<br>" +
-  "I loveeeeeee youuuuuuuuuu<br>" +
-  "sooooooooooo muchhhhhhhhhhhhh<br>" +
-  "and willlllllll neverrrr<br>" +
-  "stop lovinggg youuuuu,<br>" +
-  "my one and only princessssss <br><br>" +
-
-  "Wellll don't goo yetttttt...<br>" +
-  "I've got something more for you to see :)) ";
+  "to have such a loving friend<br>" ;
 
 let typeIndex = 0;
 const typewriterElement = document.getElementById("typewriter");
